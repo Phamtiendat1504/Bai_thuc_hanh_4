@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "SHARED PREFERENCE"
+rootProject.name = "SQLite"
 include(":app")
